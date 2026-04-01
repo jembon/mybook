@@ -1,4 +1,4 @@
-baseURL = "https://your-site.pages.dev"
+baseURL = "https://books.jembon.com"
 languageCode = "zh-cn"
 title = "Jembon书库"
 theme = "PaperMod"
