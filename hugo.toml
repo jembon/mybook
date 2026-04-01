@@ -1,4 +1,17 @@
 baseURL = "https://books.jembon.com"
 languageCode = "zh-cn"
-title = "Jembon书库"
-theme = "PaperMod"
+title = "Jembon 书库"
+theme = "hugo-book"
+
+# Hugo Book 主题配置
+[params]
+  # 显示章节编号
+  BookSection = "*"
+  # 启用目录
+  BookToC = true
+  # 启用搜索
+  BookSearch = true
+  # 启用草稿
+  BookDrafts = true
+  # 启用未来日期
+  BookFuture = true
