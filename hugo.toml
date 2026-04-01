@@ -1,7 +1,32 @@
 baseURL = "https://books.jembon.com"
-languageCode = "zh-cn"
-title = "Jembon 书库"
 theme = "hugo-book"
+title = "Jembon Books"
+
+# 多语言配置
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+  languageCode = 'en-us'
+  title = 'Jembon Books'
+
+[languages.zh]
+  languageName = '中文'
+  contentDir = 'content.zh'
+  weight = 2
+  languageCode = 'zh-cn'
+  title = 'Jembon 书库'
+
+[languages.ja]
+  languageName = '日本語'
+  contentDir = 'content.ja'
+  weight = 3
+  languageCode = 'ja-jp'
+  title = 'Jembon ブックス'
 
 # Hugo Book 主题配置
 [params]
