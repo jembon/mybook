@@ -1,7 +1,6 @@
 ---
 title: "Jembon ブックス"
 type: book
-bookHref: /book1/
 ---
 
 ## Jembon ブックスへようこそ
