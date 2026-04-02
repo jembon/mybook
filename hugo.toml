@@ -30,8 +30,8 @@ defaultContentLanguageInSubdir = false
 
 # Hugo Book 主题配置
 [params]
-  # 书籍目录配置（扁平化结构）
-  BookSection = ""
+  # 书籍目录配置（扁平化结构，* 表示根目录）
+  BookSection = "*"
   # 启用目录
   BookToC = true
   # 启用搜索
