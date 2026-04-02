@@ -1,4 +1,4 @@
----
+﻿---
 title: "ウィルス・ウィズダム"
 date: 2026-04-02
 weight: 100
@@ -7,7 +7,6 @@ author: "CHAOCHAO WU"
 cover: "/images/covers/caifu-zhihui-ja.jpg"
 tags: ["富", "財務", "自己成長", "投資"]
 draft: false
-languageCode: "ja"
 ---
 
 # ウィルス・ウィズダム

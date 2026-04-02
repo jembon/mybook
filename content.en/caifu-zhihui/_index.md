@@ -1,4 +1,4 @@
----
+﻿---
 title: "Wealth Wisdom"
 date: 2026-04-02
 weight: 100
@@ -7,7 +7,6 @@ author: "CHAOCHAO WU"
 cover: "/images/covers/caifu-zhihui-en.jpg"
 tags: ["Wealth", "Finance", "Personal Growth", "Investment"]
 draft: false
-languageCode: "en"
 ---
 
 # Wealth Wisdom

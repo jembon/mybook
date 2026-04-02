@@ -1,4 +1,4 @@
----
+﻿---
 title: "财富智慧"
 date: 2026-04-02
 weight: 100
@@ -7,7 +7,6 @@ author: "CHAOCHAO WU"
 cover: "/images/covers/caifu-zhihui-zh.jpg"
 tags: ["财富", "理财", "个人成长", "投资"]
 draft: false
-languageCode: "zh"
 ---
 
 # 财富智慧
