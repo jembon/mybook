@@ -1,0 +1,67 @@
+{{/* 全局底部 - 多语言支持 */}}
+{{ $lang := .Site.Language.Lang }}
+
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6262857869176787"
+     crossorigin="anonymous"></script>
+
+<footer class="site-footer">
+  {{ if eq $lang "zh" }}
+  <!-- 中文底部 -->
+  <p class="site-footer-copyright">© 2026 www.jembon.com | CHAOCHAO WU. 版权所有。</p>
+  <nav class="site-footer-nav">
+    <a href="/zh/about/">关于我们</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/zh/contact/">联系我们</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/zh/privacy/">隐私政策</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/zh/disclaimer/">免责声明</a>
+  </nav>
+  <p class="site-footer-contact">
+    📞 (332) 203-9997
+    <span class="site-footer-sep">|</span>
+    📧 aban205051@gmail.com
+    <span class="site-footer-sep">|</span>
+    📍 3746 Foothill Glendale, CA 91214
+  </p>
+  {{ else if eq $lang "ja" }}
+  <!-- 日文底部 -->
+  <p class="site-footer-copyright">© 2026 www.jembon.com | CHAOCHAO WU. All rights reserved.</p>
+  <nav class="site-footer-nav">
+    <a href="/ja/about/">私たちについて</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/ja/contact/">お問い合わせ</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/ja/privacy/">プライバシーポリシー</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/ja/disclaimer/">免責事項</a>
+  </nav>
+  <p class="site-footer-contact">
+    📞 (332) 203-9997
+    <span class="site-footer-sep">|</span>
+    📧 aban205051@gmail.com
+    <span class="site-footer-sep">|</span>
+    📍 3746 Foothill Glendale, CA 91214
+  </p>
+  {{ else }}
+  <!-- 英文底部（默认） -->
+  <p class="site-footer-copyright">© 2026 www.jembon.com | CHAOCHAO WU. All rights reserved.</p>
+  <nav class="site-footer-nav">
+    <a href="/about/">About Us</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/contact/">Contact Us</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/privacy/">Privacy Policy</a>
+    <span class="site-footer-sep">|</span>
+    <a href="/disclaimer/">Disclaimer</a>
+  </nav>
+  <p class="site-footer-contact">
+    📞 (332) 203-9997
+    <span class="site-footer-sep">|</span>
+    📧 aban205051@gmail.com
+    <span class="site-footer-sep">|</span>
+    📍 3746 Foothill Glendale, CA 91214
+  </p>
+  {{ end }}
+</footer>
