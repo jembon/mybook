@@ -1,10 +1,11 @@
 ﻿---
-title: "Trust Is the Hardest Currency: How to Become the Person Everyone Wants in Their Corner"
+title: "Ch5 03: Trust Is the Hardest Currency: How to Become the Person Everyone Wants in Their Corner"
 weight: 23
 draft: false
 translationKey: book-time-capital-architecture-ch23
 ---
 
+# Ch5 03: Trust Is the Hardest Currency: How to Become the Person Everyone Wants in Their Corner
 
 *Chapter 5: Network Leverage | Article 3 of 5*
 *Time Capital Architecture — Layer 5*

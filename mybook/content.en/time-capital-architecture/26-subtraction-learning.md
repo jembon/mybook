@@ -1,10 +1,11 @@
 ﻿---
-title: "The Subtraction Principle: Stop Learning More and Start Solving What Matters"
+title: "Ch6 01: The Subtraction Principle: Stop Learning More and Start Solving What Matters"
 weight: 26
 draft: false
 translationKey: book-time-capital-architecture-ch26
 ---
 
+# Ch6 01: The Subtraction Principle: Stop Learning More and Start Solving What Matters
 
 *Chapter 6: Efficiency Toolkit | Article 1 of 3*
 *Time Capital Architecture — Layer 6*

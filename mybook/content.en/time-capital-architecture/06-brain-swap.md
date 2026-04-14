@@ -1,10 +1,11 @@
 ﻿---
-title: "Brain Swap: Why Your Effort Produces No Results"
+title: "Ch2 01: Brain Swap: Why Your Effort Produces No Results"
 weight: 6
 draft: false
 translationKey: book-time-capital-architecture-ch06
 ---
 
+# Ch2 01: Brain Swap: Why Your Effort Produces No Results
 
 *Chapter 2: Cognitive Engine | Article 1 of 5*
 *Time Capital Architecture — Layer 2*

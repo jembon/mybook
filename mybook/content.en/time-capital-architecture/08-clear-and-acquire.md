@@ -1,10 +1,11 @@
 ﻿---
-title: "Clear and Acquire: The Right Way to Absorb New Knowledge"
+title: "Ch2 03: Clear and Acquire: The Right Way to Absorb New Knowledge"
 weight: 8
 draft: false
 translationKey: book-time-capital-architecture-ch08
 ---
 
+# Ch2 03: Clear and Acquire: The Right Way to Absorb New Knowledge
 
 *Chapter 2: Cognitive Engine | Article 3 of 5*
 *Time Capital Architecture — Layer 2*

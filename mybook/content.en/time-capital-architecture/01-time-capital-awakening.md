@@ -1,10 +1,11 @@
 ﻿---
-title: "Time Capital Awakening: Your Life Is Worth More Than You Think"
+title: "Ch1 01: Time Capital Awakening: Your Life Is Worth More Than You Think"
 weight: 1
 draft: false
 translationKey: book-time-capital-architecture-ch01
 ---
 
+# Ch1 01: Time Capital Awakening: Your Life Is Worth More Than You Think
 
 *Chapter 1: Value Compass | Article 1 of 5*
 *Time Capital Architecture — Layer 1*

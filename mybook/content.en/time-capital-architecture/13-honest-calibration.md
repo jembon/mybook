@@ -1,10 +1,11 @@
 ﻿---
-title: "Self-Honesty Is the Scarcest Ability You Need"
+title: "Ch3 03: Self-Honesty Is the Scarcest Ability You Need"
 weight: 13
 draft: false
 translationKey: book-time-capital-architecture-ch13
 ---
 
+# Ch3 03: Self-Honesty Is the Scarcest Ability You Need
 
 *Chapter 3: Life Blueprint | Article 3 of 4*
 *Time Capital Architecture — Layer 3*

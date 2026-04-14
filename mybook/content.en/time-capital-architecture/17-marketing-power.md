@@ -1,10 +1,11 @@
 ﻿---
-title: "Marketing Power: Let the World Know Your Value"
+title: "Ch4 03: Marketing Power: Let the World Know Your Value"
 weight: 17
 draft: false
 translationKey: book-time-capital-architecture-ch17
 ---
 
+# Ch4 03: Marketing Power: Let the World Know Your Value
 
 *Chapter 4: Capability Matrix | Article 3 of 6*
 *Time Capital Architecture — Layer 4*

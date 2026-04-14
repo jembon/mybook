@@ -1,10 +1,11 @@
 ﻿---
-title: "The 10/20/150 Rule: How to Audit Your Network and Invest Where It Matters"
+title: "Ch5 02: The 10/20/150 Rule: How to Audit Your Network and Invest Where It Matters"
 weight: 22
 draft: false
 translationKey: book-time-capital-architecture-ch22
 ---
 
+# Ch5 02: The 10/20/150 Rule: How to Audit Your Network and Invest Where It Matters
 
 *Chapter 5: Network Leverage | Article 2 of 5*
 *Time Capital Architecture — Layer 5*

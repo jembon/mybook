@@ -1,10 +1,11 @@
 ﻿---
-title: "How to Draw Your Life Roadmap"
+title: "Ch3 02: How to Draw Your Life Roadmap"
 weight: 12
 draft: false
 translationKey: book-time-capital-architecture-ch12
 ---
 
+# Ch3 02: How to Draw Your Life Roadmap
 
 *Chapter 3: Life Blueprint | Article 2 of 4*
 *Time Capital Architecture — Layer 3*

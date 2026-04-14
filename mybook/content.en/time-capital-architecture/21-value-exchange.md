@@ -1,10 +1,11 @@
 ﻿---
-title: "The Real Currency of Connection: Why Networking Has Nothing to Do With Being Likable"
+title: "Ch5 01: The Real Currency of Connection: Why Networking Has Nothing to Do With Being Likable"
 weight: 21
 draft: false
 translationKey: book-time-capital-architecture-ch21
 ---
 
+# Ch5 01: The Real Currency of Connection: Why Networking Has Nothing to Do With Being Likable
 
 *Chapter 5: Network Leverage | Article 1 of 5*
 *Time Capital Architecture — Layer 5*

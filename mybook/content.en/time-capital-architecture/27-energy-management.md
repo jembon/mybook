@@ -1,10 +1,11 @@
 ﻿---
-title: "Energy Architecture: Stop Managing Time and Start Managing Power"
+title: "Ch6 02: Energy Architecture: Stop Managing Time and Start Managing Power"
 weight: 27
 draft: false
 translationKey: book-time-capital-architecture-ch27
 ---
 
+# Ch6 02: Energy Architecture: Stop Managing Time and Start Managing Power
 
 *Chapter 6: Efficiency Toolkit | Article 2 of 3*
 *Time Capital Architecture — Layer 6*

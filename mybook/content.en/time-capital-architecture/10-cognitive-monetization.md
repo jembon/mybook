@@ -1,10 +1,11 @@
 ﻿---
-title: "Cognitive Monetization: Turn New Knowledge Into New Income"
+title: "Ch2 05: Cognitive Monetization: Turn New Knowledge Into New Income"
 weight: 10
 draft: false
 translationKey: book-time-capital-architecture-ch10
 ---
 
+# Ch2 05: Cognitive Monetization: Turn New Knowledge Into New Income
 
 *Chapter 2: Cognitive Engine | Article 5 of 5*
 *Time Capital Architecture — Layer 2*

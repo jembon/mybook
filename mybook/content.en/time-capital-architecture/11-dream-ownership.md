@@ -1,10 +1,11 @@
 ﻿---
-title: "Whose Life Are You Actually Living?"
+title: "Ch3 01: Whose Life Are You Actually Living?"
 weight: 11
 draft: false
 translationKey: book-time-capital-architecture-ch11
 ---
 
+# Ch3 01: Whose Life Are You Actually Living?
 
 *Chapter 3: Life Blueprint | Article 1 of 4*
 *Time Capital Architecture — Layer 3*

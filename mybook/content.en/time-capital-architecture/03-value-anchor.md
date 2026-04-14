@@ -1,10 +1,11 @@
 ﻿---
-title: "Value Anchor: Find Your Core Monetizable Skill"
+title: "Ch1 03: Value Anchor: Find Your Core Monetizable Skill"
 weight: 3
 draft: false
 translationKey: book-time-capital-architecture-ch03
 ---
 
+# Ch1 03: Value Anchor: Find Your Core Monetizable Skill
 
 *Chapter 1: Value Compass | Article 3 of 5*
 *Time Capital Architecture — Layer 1*

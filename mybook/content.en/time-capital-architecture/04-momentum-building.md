@@ -1,10 +1,11 @@
 ﻿---
-title: "Momentum Building: How Vision Determines Altitude"
+title: "Ch1 04: Momentum Building: How Vision Determines Altitude"
 weight: 4
 draft: false
 translationKey: book-time-capital-architecture-ch04
 ---
 
+# Ch1 04: Momentum Building: How Vision Determines Altitude
 
 *Chapter 1: Value Compass | Article 4 of 5*
 *Time Capital Architecture — Layer 1*

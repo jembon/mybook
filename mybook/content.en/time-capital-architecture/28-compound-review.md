@@ -1,10 +1,11 @@
 ﻿---
-title: "Compound Review: The System That Makes Every Execution Better Than the Last"
+title: "Ch6 03: Compound Review: The System That Makes Every Execution Better Than the Last"
 weight: 28
 draft: false
 translationKey: book-time-capital-architecture-ch28
 ---
 
+# Ch6 03: Compound Review: The System That Makes Every Execution Better Than the Last
 
 *Chapter 6: Efficiency Toolkit | Article 3 of 3*
 *Time Capital Architecture — Layer 6*

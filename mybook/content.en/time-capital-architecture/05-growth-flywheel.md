@@ -1,10 +1,11 @@
 ﻿---
-title: "Growth Flywheel: Launch the Compound Interest Engine"
+title: "Ch1 05: Growth Flywheel: Launch the Compound Interest Engine"
 weight: 5
 draft: false
 translationKey: book-time-capital-architecture-ch05
 ---
 
+# Ch1 05: Growth Flywheel: Launch the Compound Interest Engine
 
 *Chapter 1: Value Compass | Article 5 of 5*
 *Time Capital Architecture — Layer 1*

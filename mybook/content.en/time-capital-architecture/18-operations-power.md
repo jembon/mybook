@@ -1,10 +1,11 @@
 ﻿---
-title: "Operations Power: The System of Sustained Value Delivery"
+title: "Ch4 04: Operations Power: The System of Sustained Value Delivery"
 weight: 18
 draft: false
 translationKey: book-time-capital-architecture-ch18
 ---
 
+# Ch4 04: Operations Power: The System of Sustained Value Delivery
 
 *Chapter 4: Capability Matrix | Article 4 of 6*
 *Time Capital Architecture — Layer 4*

@@ -1,10 +1,11 @@
 ﻿---
-title: "The CEO of You: Run Your Life Like a Business"
+title: "Ch4 01: The CEO of You: Run Your Life Like a Business"
 weight: 15
 draft: false
 translationKey: book-time-capital-architecture-ch15
 ---
 
+# Ch4 01: The CEO of You: Run Your Life Like a Business
 
 *Chapter 4: Capability Matrix | Article 1 of 6*
 *Time Capital Architecture — Layer 4*

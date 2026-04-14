@@ -1,10 +1,11 @@
 ﻿---
-title: "Boundary Management: Operate Within Your Cognitive Range"
+title: "Ch4 05: Boundary Management: Operate Within Your Cognitive Range"
 weight: 19
 draft: false
 translationKey: book-time-capital-architecture-ch19
 ---
 
+# Ch4 05: Boundary Management: Operate Within Your Cognitive Range
 
 *Chapter 4: Capability Matrix | Article 5 of 6*
 *Time Capital Architecture — Layer 4*

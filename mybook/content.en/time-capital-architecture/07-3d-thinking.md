@@ -1,10 +1,11 @@
 ﻿---
-title: "3D Thinking: See Yourself Through Three Dimensions"
+title: "Ch2 02: 3D Thinking: See Yourself Through Three Dimensions"
 weight: 7
 draft: false
 translationKey: book-time-capital-architecture-ch07
 ---
 
+# Ch2 02: 3D Thinking: See Yourself Through Three Dimensions
 
 *Chapter 2: Cognitive Engine | Article 2 of 5*
 *Time Capital Architecture — Layer 2*

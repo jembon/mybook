@@ -1,10 +1,11 @@
 ﻿---
-title: "Breaking the Circle: How Shared Values Connect You Across Social Layers"
+title: "Ch5 04: Breaking the Circle: How Shared Values Connect You Across Social Layers"
 weight: 24
 draft: false
 translationKey: book-time-capital-architecture-ch24
 ---
 
+# Ch5 04: Breaking the Circle: How Shared Values Connect You Across Social Layers
 
 *Chapter 5: Network Leverage | Article 4 of 5*
 *Time Capital Architecture — Layer 5*

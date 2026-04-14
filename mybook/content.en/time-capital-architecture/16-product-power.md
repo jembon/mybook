@@ -1,10 +1,11 @@
 ﻿---
-title: "Product Power: What Valuable Thing Can You Create?"
+title: "Ch4 02: Product Power: What Valuable Thing Can You Create?"
 weight: 16
 draft: false
 translationKey: book-time-capital-architecture-ch16
 ---
 
+# Ch4 02: Product Power: What Valuable Thing Can You Create?
 
 *Chapter 4: Capability Matrix | Article 2 of 6*
 *Time Capital Architecture — Layer 4*

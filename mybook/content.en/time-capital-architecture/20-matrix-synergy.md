@@ -1,10 +1,11 @@
 ﻿---
-title: "Matrix Synergy: The Compound Effect of Three Forces Combined"
+title: "Ch4 06: Matrix Synergy: The Compound Effect of Three Forces Combined"
 weight: 20
 draft: false
 translationKey: book-time-capital-architecture-ch20
 ---
 
+# Ch4 06: Matrix Synergy: The Compound Effect of Three Forces Combined
 
 *Chapter 4: Capability Matrix | Article 6 of 6*
 *Time Capital Architecture — Layer 4*

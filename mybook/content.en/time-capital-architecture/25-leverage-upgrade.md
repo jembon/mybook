@@ -1,10 +1,11 @@
 ﻿---
-title: "From Node to Hub: The Super Connector's Path to Network Leverage"
+title: "Ch5 05: From Node to Hub: The Super Connector's Path to Network Leverage"
 weight: 25
 draft: false
 translationKey: book-time-capital-architecture-ch25
 ---
 
+# Ch5 05: From Node to Hub: The Super Connector's Path to Network Leverage
 
 *Chapter 5: Network Leverage | Article 5 of 5*
 *Time Capital Architecture — Layer 5*

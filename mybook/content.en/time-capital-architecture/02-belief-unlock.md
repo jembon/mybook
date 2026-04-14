@@ -1,10 +1,11 @@
 ﻿---
-title: "Belief Unlock: It's Never Too Late to Change"
+title: "Ch1 02: Belief Unlock: It's Never Too Late to Change"
 weight: 2
 draft: false
 translationKey: book-time-capital-architecture-ch02
 ---
 
+# Ch1 02: Belief Unlock: It's Never Too Late to Change
 
 *Chapter 1: Value Compass | Article 2 of 5*
 *Time Capital Architecture — Layer 1*

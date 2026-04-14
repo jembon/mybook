@@ -1,10 +1,11 @@
 ﻿---
-title: "Output-Driven: The Ultimate Standard of Learning Is Teaching"
+title: "Ch2 04: Output-Driven: The Ultimate Standard of Learning Is Teaching"
 weight: 9
 draft: false
 translationKey: book-time-capital-architecture-ch09
 ---
 
+# Ch2 04: Output-Driven: The Ultimate Standard of Learning Is Teaching
 
 *Chapter 2: Cognitive Engine | Article 4 of 5*
 *Time Capital Architecture — Layer 2*
