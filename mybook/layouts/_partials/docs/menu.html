@@ -1,0 +1,31 @@
+<nav>
+{{ partial "docs/brand" . }}
+{{ partial "docs/search" . }}
+{{ if hugo.IsMultilingual }}
+  {{ partial "docs/languages" . }}
+{{ end }}
+
+{{ partial "docs/inject/menu-before" . }}
+{{ partial "docs/menu-hugo" (dict "Page" .Page "Menu" .Site.Menus.before) }}
+
+{{/* 条件路由：根据页面类型选择不同侧边栏 */}}
+{{ if or .IsHome (eq .Kind "taxonomy") (eq .Kind "term") }}
+  {{/* 首页 / 标签列表 / 单个标签页 → 随机书名列表 */}}
+  {{ partial "docs/menu-home" . }}
+{{ else if and .FirstSection (ne .FirstSection.Params.book false) }}
+  {{/* 书籍目录页 / 章节阅读页 → 当前书的章节 */}}
+  {{ partial "docs/menu-book" . }}
+{{ else }}
+  {{/* 兜底（静态页面等）→ 原版文件树 */}}
+  {{ partial "docs/menu-filetree" . }}
+{{ end }}
+
+{{ partial "docs/menu-hugo" (dict "Page" .Page "Menu" .Site.Menus.after) }}
+{{ partial "docs/inject/menu-after" . }}
+</nav>
+
+<!-- Restore menu position as soon as possible to avoid flickering -->
+{{ $script := resources.Get "menu-reset.js" | resources.Minify }}
+{{ with $script.Content }}
+  <script>{{ . | safeJS }}</script>
+{{ end }}

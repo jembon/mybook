@@ -1,0 +1,67 @@
+/* ===================================
+   全局底部样式 - 所有页面共用
+   =================================== */
+
+.site-footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  border-top: 1px solid #e0e0e0;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.8;
+}
+
+.site-footer-copyright {
+  margin: 0 0 1rem 0;
+  font-weight: 500;
+}
+
+.site-footer-nav {
+  margin: 1rem 0;
+}
+
+.site-footer-nav a {
+  color: #0066cc;
+  text-decoration: none;
+  margin: 0 0.5rem;
+  transition: color 0.2s;
+}
+
+.site-footer-nav a:hover {
+  color: #0052a3;
+  text-decoration: underline;
+}
+
+.site-footer-sep {
+  color: #ccc;
+  margin: 0 0.5rem;
+}
+
+.site-footer-contact {
+  margin: 1rem 0 0 0;
+  color: #888;
+  font-size: 0.8rem;
+}
+
+/* 手机端优化 */
+@media (max-width: 768px) {
+  .site-footer {
+    font-size: 0.75rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .site-footer-nav a {
+    margin: 0 0.3rem;
+  }
+  
+  .site-footer-sep {
+    margin: 0 0.3rem;
+  }
+  
+  .site-footer-contact {
+    font-size: 0.7rem;
+  }
+}

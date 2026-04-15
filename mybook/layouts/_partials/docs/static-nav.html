@@ -1,0 +1,34 @@
+{{/* 静态页面左侧导航 - 硬编码链接 */}}
+{{ $current := .RelPermalink }}
+{{ $lang := .Site.Language.Lang }}
+
+<nav class="book-static-nav">
+  {{ if eq $lang "zh" }}
+  <!-- 中文导航 -->
+  <ul>
+    <li{{ if eq $current "/zh/" }} class="active"{{ end }}><a href="/zh/">🏠 首页</a></li>
+    <li{{ if eq $current "/zh/about/" }} class="active"{{ end }}><a href="/zh/about/">📖 关于我们</a></li>
+    <li{{ if eq $current "/zh/contact/" }} class="active"{{ end }}><a href="/zh/contact/">📩 联系我们</a></li>
+    <li{{ if eq $current "/zh/privacy/" }} class="active"{{ end }}><a href="/zh/privacy/">🔒 隐私政策</a></li>
+    <li{{ if eq $current "/zh/disclaimer/" }} class="active"{{ end }}><a href="/zh/disclaimer/">⚠️ 免责声明</a></li>
+  </ul>
+  {{ else if eq $lang "ja" }}
+  <!-- 日文导航 -->
+  <ul>
+    <li{{ if eq $current "/ja/" }} class="active"{{ end }}><a href="/ja/">🏠 ホーム</a></li>
+    <li{{ if eq $current "/ja/about/" }} class="active"{{ end }}><a href="/ja/about/">📖 私たちについて</a></li>
+    <li{{ if eq $current "/ja/contact/" }} class="active"{{ end }}><a href="/ja/contact/">📩 お問い合わせ</a></li>
+    <li{{ if eq $current "/ja/privacy/" }} class="active"{{ end }}><a href="/ja/privacy/">🔒 プライバシーポリシー</a></li>
+    <li{{ if eq $current "/ja/disclaimer/" }} class="active"{{ end }}><a href="/ja/disclaimer/">⚠️ 免責事項</a></li>
+  </ul>
+  {{ else }}
+  <!-- 英文导航（默认） -->
+  <ul>
+    <li{{ if eq $current "/about/" }} class="active"{{ end }}><a href="/">🏠 Home</a></li>
+    <li{{ if eq $current "/about/" }} class="active"{{ end }}><a href="/about/">📖 About Us</a></li>
+    <li{{ if eq $current "/contact/" }} class="active"{{ end }}><a href="/contact/">📩 Contact Us</a></li>
+    <li{{ if eq $current "/privacy/" }} class="active"{{ end }}><a href="/privacy/">🔒 Privacy Policy</a></li>
+    <li{{ if eq $current "/disclaimer/" }} class="active"{{ end }}><a href="/disclaimer/">⚠️ Disclaimer</a></li>
+  </ul>
+  {{ end }}
+</nav>

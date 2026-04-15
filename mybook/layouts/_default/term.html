@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  <div class="book-tags">
+    <a href="{{ .Site.Home.RelPermalink }}" class="tag-link">{{ i18n "all" | default "All" }}</a>
+    {{ range first 20 (sort .Site.Taxonomies.tags "Count" "desc") }}
+      {{ if eq .Page.Language.Lang $.Page.Language.Lang }}
+      <span class="tag-sep">|</span>
+      <a href="{{ .Page.RelPermalink }}" class="tag-link{{ if eq .Page.RelPermalink $.RelPermalink }} active{{ end }}">{{ .Page.Title }}</a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <div class="book-grid">
+    {{ range first 35 .Pages }}
+      {{ if .Params.cover }}
+      <a class="book-card" href="{{ .RelPermalink }}">
+        <div class="book-card-cover">
+          <img src="{{ .Params.cover }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        <h3 class="book-card-title">{{ .Title }}</h3>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</article>
+{{ end }}

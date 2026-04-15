@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <!-- 1. H1 标题 + 副标题 -->
+  <h1 class="book-title">{{ .Title }}</h1>
+  {{ if .Params.Description }}
+  <p class="book-subtitle">{{ .Params.Description }}</p>
+  {{ end }}
+  
+  <!-- 2. 标签 -->
+  {{ if .Params.Tags }}
+  <div class="book-tags">
+    {{ range .Params.Tags }}
+    <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+  
+  <!-- 3. 序言内容 -->
+  <div class="book-preface">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

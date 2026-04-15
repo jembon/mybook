@@ -1,0 +1,34 @@
+{{/* 书籍目录页 / 章节阅读页 专用侧边栏 — 只显示当前书的章节 */}}
+{{ $lang := .Site.Language.Lang }}
+{{ $book := .FirstSection }}
+
+{{/* 返回书库按钮 */}}
+<div style="padding:0.5em 0; margin-bottom:2rem">
+  <a href="{{ .Site.Home.RelPermalink }}">
+    {{ if eq $lang "zh" }}← 返回书库
+    {{ else if eq $lang "ja" }}← ライブラリに戻る
+    {{ else }}← Back to Library
+    {{ end }}
+  </a>
+</div>
+
+{{/* 书名标题 */}}
+{{ with $book }}
+<div style="font-weight:700; padding:0.5em 0">
+  <a href="{{ .RelPermalink }}" style="font-weight:700">📖 {{ .Title }}</a>
+</div>
+
+{{/* 章节列表 */}}
+<ul>
+  {{ range (where .Pages "Params.bookHidden" "ne" true) }}
+    {{ if and .IsPage .Content }}
+    <li>
+      <a href="{{ .RelPermalink }}"
+         {{ if eq $.RelPermalink .RelPermalink }}class="active"{{ end }}>
+        {{- partial "docs/title" . -}}
+      </a>
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}

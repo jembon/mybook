@@ -1,0 +1,27 @@
+{{/* 首页 / 标签页 专用侧边栏 — 随机显示 50 本书名 */}}
+{{ $lang := .Site.Language.Lang }}
+
+<div style="font-weight:700; padding:0.5em 0">
+  {{ if eq $lang "zh" }}📚 书库
+  {{ else if eq $lang "ja" }}📚 ライブラリ
+  {{ else }}📚 Book Library
+  {{ end }}
+</div>
+
+<ul>
+  {{ $exclude := slice "about" "contact" "privacy" "disclaimer" }}
+  {{ $books := where .Site.Sections "Params.bookHidden" "ne" true }}
+  {{ range first 50 (shuffle $books) }}
+    {{ $slug := "" }}
+    {{ with .File }}
+      {{ $slug = .ContentBaseName }}
+    {{ end }}
+    {{ if not (in $exclude $slug) }}
+      {{ if and .IsSection (ne .Params.book false) }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</ul>

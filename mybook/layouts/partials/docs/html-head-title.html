@@ -1,0 +1,6 @@
+{{- if .IsHome -}}
+  {{- .Site.Title -}}
+  {{- with .Site.Params.subtitle }} | {{ . }}{{ end -}}
+{{- else -}}
+  {{ with partial "docs/title" . }}{{ . }} | {{ end }}{{ .Site.Title -}}
+{{- end -}}

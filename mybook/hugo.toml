@@ -1,0 +1,60 @@
+baseURL = "https://www.jembon.com"
+theme = "hugo-book"
+title = "Jembon Books"
+
+# 编码配置
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      attribute = true
+
+# 多语言配置
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+  languageCode = 'en-us'
+  title = 'Jembon Books'
+
+  [languages.en.params]
+  description = 'Curated content at scale, all free to read online'
+  subtitle = "Read Free Books Online"
+
+[languages.zh]
+  languageName = '中文'
+  contentDir = 'content.zh'
+  weight = 2
+  languageCode = 'zh-cn'
+  title = '正邦书店'
+
+  [languages.zh.params]
+  description = '海量精选内容，全部免费在线阅读'
+  subtitle = "海量精选图书，全部免费"
+
+[languages.ja]
+  languageName = '日本語'
+  contentDir = 'content.ja'
+  weight = 3
+  languageCode = 'ja-jp'
+  title = 'JEMBON オンライン書店'
+
+  [languages.ja.params]
+  description = '厳選された豊富なコンテンツを、すべて無料で読める'
+  subtitle = "無料で本を読もう"
+
+# 标签功能（2026-04-08 主人指示启用）
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Hugo Book 主题配置
+[params]
+  # 使用 hugo-book 主题默认配置
+  bookSection = "*"
+  BookToC = true
+  BookSearch = true
+  subtitle = "Read Free Books Online"

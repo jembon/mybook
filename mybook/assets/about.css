@@ -1,0 +1,146 @@
+/* ===================================
+   关于页/联系页/隐私政策页/免责声明页专用样式 - 不影响其他页面
+   =================================== */
+
+/* 隐藏左侧边栏的品牌 Logo */
+.about-page .book-menu .book-brand,
+.contact-page .book-menu .book-brand,
+.privacy-page .book-menu .book-brand,
+.disclaimer-page .book-menu .book-brand {
+  display: none !important;
+}
+
+/* 隐藏左侧边栏的搜索框 */
+.about-page .book-menu .book-search,
+.contact-page .book-menu .book-search,
+.privacy-page .book-menu .book-search,
+.disclaimer-page .book-menu .book-search {
+  display: none !important;
+}
+
+/* 隐藏语言切换后的书籍章节树（ul 没有类名） */
+.about-page .book-menu .book-languages + ul,
+.contact-page .book-menu .book-languages + ul,
+.privacy-page .book-menu .book-languages + ul,
+.disclaimer-page .book-menu .book-languages + ul {
+  display: none !important;
+}
+
+/* 显示语言切换按钮 */
+.about-page .book-menu .book-languages,
+.contact-page .book-menu .book-languages,
+.privacy-page .book-menu .book-languages,
+.disclaimer-page .book-menu .book-languages {
+  display: block !important;
+}
+
+/* 显示右侧目录（桌面端） */
+.about-page .book-toc,
+.contact-page .book-toc,
+.privacy-page .book-toc,
+.disclaimer-page .book-toc {
+  display: block !important;
+}
+
+/* 手机端隐藏右侧目录 */
+@media (max-width: 768px) {
+  .about-page .book-toc,
+  .contact-page .book-toc,
+  .privacy-page .book-toc,
+  .disclaimer-page .book-toc {
+    display: none !important;
+  }
+}
+
+/* 页面布局调整 */
+.about-page .book-page,
+.contact-page .book-page,
+.privacy-page .book-page,
+.disclaimer-page .book-page {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
+
+/* 覆盖 container 的最大宽度限制 */
+.about-page main.container,
+.contact-page main.container,
+.privacy-page main.container,
+.disclaimer-page main.container {
+  max-width: 100% !important;
+}
+
+/* 内容区域居左显示 */
+.about-page .book-article,
+.contact-page .book-article,
+.privacy-page .book-article,
+.disclaimer-page .book-article {
+  max-width: 100% !important;
+  padding: 2rem !important;
+  margin: 0 !important;
+}
+
+.about-page .book-article .markdown,
+.contact-page .book-article .markdown,
+.privacy-page .book-article .markdown,
+.disclaimer-page .book-article .markdown {
+  max-width: 100% !important;
+  margin: 0 !important;
+  text-align: left !important;
+}
+
+.about-page .book-article .markdown > *,
+.contact-page .book-article .markdown > *,
+.privacy-page .book-article .markdown > *,
+.disclaimer-page .book-article .markdown > * {
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* 隐藏页脚的上一页/下一章链接 */
+.about-page .book-footer .flex.flex-wrap,
+.contact-page .book-footer .flex.flex-wrap,
+.privacy-page .book-footer .flex.flex-wrap,
+.disclaimer-page .book-footer .flex.flex-wrap {
+  display: none !important;
+}
+
+/* 静态页面左侧导航样式 */
+.book-static-nav {
+  padding: 1rem !important;
+  border-top: 1px solid #e0e0e0 !important;
+  margin-top: 1rem !important;
+}
+
+.book-static-nav ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.book-static-nav li {
+  margin-bottom: 0.5rem !important;
+}
+
+.book-static-nav a {
+  color: #666 !important;
+  text-decoration: none !important;
+  padding: 0.25rem 0 !important;
+  display: block !important;
+  font-size: 0.9rem !important;
+  transition: color 0.2s !important;
+}
+
+.book-static-nav a:hover {
+  color: #0066cc !important;
+}
+
+.book-static-nav a.current {
+  color: #0066cc !important;
+  font-weight: 600 !important;
+}
+
+.book-static-nav li.active a {
+  color: #0066cc !important;
+  font-weight: 600 !important;
+}

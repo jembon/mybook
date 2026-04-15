@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1 class="book-title">{{ .Title }}</h1>
+  {{ if .Params.Description }}
+  <p class="book-subtitle">{{ .Params.Description }}</p>
+  {{ end }}
+  
+  <div class="about-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
