@@ -1,11 +1,12 @@
----
-title: "Ch4 15: The Chain Reach"
-slug: "15-the-chain-reach"
+﻿---
+title: "Ch4 02: The Chain Reach"
 weight: 15
 draft: false
 translationKey: book-pull-architecture-ch15
 ---
-# The Chain Reach
+
+# Ch4 02: The Chain Reach
+
 
 You want to reach someone three levels above you. Someone who moves in circles your current credentials, title, and network can't access. Someone whose assistant screens their calls, whose inbox auto-filters strangers, and whose calendar is booked six weeks out.
 
@@ -114,3 +115,4 @@ Write this down. Put a date on it. Take the first step this week — not next mo
 You don't need a golden ticket, a prestigious title, or a viral LinkedIn post to reach anyone. You need three links, a clear reason, and the patience to walk instead of leap.
 
 *The shortest distance between you and anyone in the world isn't a message. It's a chain of trust.*
+

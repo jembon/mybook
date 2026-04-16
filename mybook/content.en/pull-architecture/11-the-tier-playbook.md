@@ -1,11 +1,12 @@
----
-title: "Ch3 11: The Tier Playbook"
-slug: "11-the-tier-playbook"
+﻿---
+title: "Ch3 02: The Tier Playbook"
 weight: 11
 draft: false
 translationKey: book-pull-architecture-ch11
 ---
-# The Tier Playbook
+
+# Ch3 02: The Tier Playbook
+
 
 You treat everyone the same. That's the problem.
 
@@ -131,3 +132,4 @@ The people who matter most deserve more of your time, more of your attention, mo
 Tier your network. Allocate your energy. Protect your most valuable relationships by giving them what they actually need — not what's left over after you've spread yourself thin for everyone else.
 
 *Fair isn't equal. Fair is giving each relationship what it deserves — and having the honesty to know the difference.*
+

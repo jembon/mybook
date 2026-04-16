@@ -1,11 +1,12 @@
----
-title: "Ch5 21: The Six-Ring Audit"
-slug: "21-the-six-ring-audit"
+﻿---
+title: "Ch5 04: The Six-Ring Audit"
 weight: 21
 draft: false
 translationKey: book-pull-architecture-ch21
 ---
-# The Six-Ring Audit
+
+# Ch5 04: The Six-Ring Audit
+
 
 You know your network has a ceiling. You know some relationships need to go and others deserve more investment. But here's the question the 150 Ceiling doesn't answer: where exactly is the waste? Where are the gaps? Which part of your social system is overloaded and burning resources, and which part is starving for attention?
 
@@ -150,3 +151,4 @@ Then count. Then time-audit. Then build your three-action rebalance plan.
 Your network is an asset. Assets that aren't audited don't just stagnate — they deteriorate. You've been operating without financial statements for your most important resource.
 
 That ends today.
+

@@ -1,11 +1,12 @@
----
+﻿---
 title: "Ch1 01: The Pull Switch"
-slug: "01-the-pull-switch"
 weight: 1
 draft: false
 translationKey: book-pull-architecture-ch01
 ---
-# The Pull Switch
+
+# Ch1 01: The Pull Switch
+
 
 You're the one everyone calls "so nice." You remember birthdays. You grab the check. You laugh at bad jokes, cover for coworkers, show up to every party with a bottle of wine and a warm smile.
 
@@ -149,3 +150,4 @@ But before you can answer that question, there's a second uncomfortable truth to
 That's where we go next.
 
 **Your one move today:** Take the Pull Switch Checklist. Write down your scores. Don't judge them — just see them. Awareness is the first act of architecture.
+

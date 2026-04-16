@@ -1,11 +1,12 @@
----
-title: "Ch4 16: The Fission Formula"
-slug: "16-the-fission-formula"
+﻿---
+title: "Ch4 03: The Fission Formula"
 weight: 16
 draft: false
 translationKey: book-pull-architecture-ch16
 ---
-# The Fission Formula
+
+# Ch4 03: The Fission Formula
+
 
 You've been building your network one person at a time. One coffee meeting. One conference handshake. One LinkedIn message. One relationship, slowly, carefully — like laying bricks with tweezers.
 
@@ -139,3 +140,4 @@ Write down:
 Start there. One connector. One genuine relationship. One chain reaction.
 
 *You don't grow a network by meeting more people. You grow it by meeting the right one.*
+

@@ -1,11 +1,12 @@
----
-title: "Ch4 17: The Boundary Line"
-slug: "17-the-boundary-line"
+﻿---
+title: "Ch4 04: The Boundary Line"
 weight: 17
 draft: false
 translationKey: book-pull-architecture-ch17
 ---
-# The Boundary Line
+
+# Ch4 04: The Boundary Line
+
 
 You've been expanding your network. New connections, new circles, new introductions flowing in from every direction. Super connectors opening doors. Chain reaches landing. Diverse contacts adding fresh perspectives. It feels productive. It feels like momentum.
 
@@ -150,3 +151,4 @@ Write these down. Put them somewhere visible — on your desk, in your phone, on
 The strongest networks aren't the biggest. They're the ones with the clearest edges — where every relationship inside the boundary is active, reciprocal, and worth the investment.
 
 *Expansion without boundaries is just sprawl. And sprawl is where energy goes to die.*
+

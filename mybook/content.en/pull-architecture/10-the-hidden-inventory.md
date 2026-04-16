@@ -1,11 +1,12 @@
----
-title: "Ch3 10: The Hidden Inventory"
-slug: "10-the-hidden-inventory"
+﻿---
+title: "Ch3 01: The Hidden Inventory"
 weight: 10
 draft: false
 translationKey: book-pull-architecture-ch10
 ---
-# The Hidden Inventory
+
+# Ch3 01: The Hidden Inventory
+
 
 You think you have nothing to offer. You're wrong.
 
@@ -99,3 +100,4 @@ For now, do one thing: **complete the scan.** Four quadrants. Twelve items. Writ
 You are. You just weren't looking.
 
 *Your inventory doesn't grow when you acquire more. It grows when you stop ignoring what you already have.*
+

@@ -1,11 +1,12 @@
----
-title: "Ch2 07: The Story Blueprint"
-slug: "07-the-story-blueprint"
+﻿---
+title: "Ch2 02: The Story Blueprint"
 weight: 7
 draft: false
 translationKey: book-pull-architecture-ch07
 ---
-# The Story Blueprint
+
+# Ch2 02: The Story Blueprint
+
 
 You have a story. Everyone does. But odds are, yours is a jumbled chronology of jobs, turning points, and random wins that makes perfect sense inside your head — and almost none to anyone else.
 
@@ -175,3 +176,4 @@ When your story is unstructured:
 The Story Blueprint is Layer 2 infrastructure. It takes the value you anchored in Layer 1 and wraps it in a narrative that travels.
 
 **Your one move today:** Fill out the Story Blueprint Template. All five elements. Read it out loud and time yourself. Over 90 seconds? Cut. Reader bridge missing? Add it. Then tell it to one person this week — not to impress them, but to test whether the structure holds. If they lean in, it works. If their eyes glaze, revise.
+

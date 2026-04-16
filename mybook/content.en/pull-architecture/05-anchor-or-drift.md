@@ -1,11 +1,12 @@
----
+﻿---
 title: "Ch1 05: Anchor or Drift"
-slug: "05-anchor-or-drift"
 weight: 5
 draft: false
 translationKey: book-pull-architecture-ch05
 ---
-# Anchor or Drift
+
+# Ch1 05: Anchor or Drift
+
 
 You've read about the Pull Switch. You understand the External Meter. You've built your Three-Point Compass and designed your first Payback Product. You have the parts.
 
@@ -156,3 +157,4 @@ The question shifts from "What am I worth?" to "How do I make sure the right peo
 Because the best-kept secret in the room is still a secret. And secrets don't generate pull.
 
 **Your one move today:** Run the full Anchor Audit. Four checkpoints. Score yourself honestly on each. Find your weakest checkpoint — that's your priority for the next two weeks. Don't try to fix everything at once. Repair the weakest link, and the whole chain gets stronger.
+

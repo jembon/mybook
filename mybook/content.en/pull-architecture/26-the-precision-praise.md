@@ -1,11 +1,12 @@
----
-title: "Ch6 26: The Precision Praise"
-slug: "26-the-precision-praise"
+﻿---
+title: "Ch6 04: The Precision Praise"
 weight: 26
 draft: false
 translationKey: book-pull-architecture-ch26
 ---
-# The Precision Praise
+
+# Ch6 04: The Precision Praise
+
 
 "Great job."
 
@@ -143,3 +144,4 @@ Name it. Be specific. Watch what happens.
 Precision praise costs nothing but attention. And attention, delivered with specificity, is one of the most valuable currencies you can offer.
 
 Stop saying "Great job." Start saying what you actually saw.
+

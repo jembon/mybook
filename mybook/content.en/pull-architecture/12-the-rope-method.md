@@ -1,11 +1,12 @@
----
-title: "Ch3 12: The Rope Method"
-slug: "12-the-rope-method"
+﻿---
+title: "Ch3 03: The Rope Method"
 weight: 12
 draft: false
 translationKey: book-pull-architecture-ch12
 ---
-# The Rope Method
+
+# Ch3 03: The Rope Method
+
 
 Stop trying to be the most valuable person in the room. Start being the person who connects the two most valuable people in the room.
 
@@ -108,3 +109,4 @@ Follow up in a week.
 Do this once a week for a month — four high-quality connections. Do it for a year — fifty. Somewhere in those fifty, doors will open that you didn't even know existed. Not because you knocked on them, but because someone you connected held them open for you in return.
 
 *The most powerful position in any network isn't at the center. It's at the bridge.*
+

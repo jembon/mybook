@@ -1,11 +1,12 @@
----
-title: "Ch2 08: The Signal Stack"
-slug: "08-the-signal-stack"
+﻿---
+title: "Ch2 03: The Signal Stack"
 weight: 8
 draft: false
 translationKey: book-pull-architecture-ch08
 ---
-# The Signal Stack
+
+# Ch2 03: The Signal Stack
+
 
 You've got your value anchor. You've built your story. You think your brand is set.
 
@@ -163,3 +164,4 @@ When they're misaligned, you generate confusion. People aren't sure what you off
 Your value anchor is the message. Your Signal Stack is the broadcast system. The message can be perfect — but if the broadcast system is broken, no one hears it.
 
 **Your one move today:** Run the Signal Stack Audit. Three layers, three words each. Compare the columns. Find your leak. Fix the easiest one this week — and schedule the harder fixes for the next 30 days. Alignment isn't built in a day. But every signal you correct makes the whole system stronger.
+

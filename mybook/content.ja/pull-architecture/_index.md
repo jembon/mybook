@@ -1,17 +1,17 @@
 ---
-title: "引力ソーシャル"
+title: "引力ソーシャル：必要とされる人になるための7層アーキテクチャ"
 date: 2026-04-15
-description: "必要とされる人になるための7層アーキテクチャ——仕事ができるのになぜ先に進めないのかと疑問に思ったすべての人のための欠けていたマニュアル。"
-author: "CHAOCHAO WU"
+weight: 400
+description: "Jembon Publishingでは、ほとんどの人が自分に存在すると気づいてすらいない問題を解決する本を探しています。『引力ソーシャル』が届いたとき、すぐにわかりました。"
+author: "Dr. Nolan Vance"
+cover: "/images/covers/pull-architecture/ja.jpg"
 tags: ["社交スキル", "人脈構築", "パーソナルブランディング", "キャリア成長", "EQ"]
-categories: ["自己成長"]
-weight: 100
 draft: false
+bookSection: "*"
 translationKey: book-pull-architecture
-cover:
-  image: "/images/covers/pull-architecture/ja.jpg"
-  relative: false
 ---
+
+## 出版社まえがき
 
 Jembon Publishingでは、ほとんどの人が自分に存在すると気づいてすらいない問題を解決する本を探しています。
 

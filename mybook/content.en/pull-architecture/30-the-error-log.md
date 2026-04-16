@@ -1,11 +1,12 @@
----
-title: "Ch7 30: The Error Log"
-slug: "30-the-error-log"
+﻿---
+title: "Ch7 03: The Error Log"
 weight: 30
 draft: false
 translationKey: book-pull-architecture-ch30
 ---
-# The Error Log
+
+# Ch7 03: The Error Log
+
 
 You've been building. Seven layers of architecture — from the Value Anchor at the foundation to the Depth Escalator you just learned. You now have a system for knowing your worth, broadcasting it, delivering it, expanding your reach, managing costs, handling friction, starting conversations, and deepening them.
 
@@ -168,3 +169,4 @@ You don't need more charisma. You don't need more connections. You don't need to
 You need a system that makes you more needed — and the discipline to keep running it.
 
 So what are you going to do about it?
+

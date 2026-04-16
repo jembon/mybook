@@ -1,11 +1,12 @@
----
-title: "Ch6 23: The Clean No"
-slug: "23-the-clean-no"
+﻿---
+title: "Ch6 01: The Clean No"
 weight: 23
 draft: false
 translationKey: book-pull-architecture-ch23
 ---
-# The Clean No
+
+# Ch6 01: The Clean No
+
 
 You said yes again. You knew you shouldn't have. The moment the words left your mouth, a small knot formed in your stomach — the kind that shows up when you've just traded your time, energy, or sanity for someone else's approval.
 
@@ -128,3 +129,4 @@ But here's what you'll notice: the person on the other end will handle it better
 Your Pull Architecture doesn't run on saying yes to everything. It runs on saying yes to the right things — and saying no to everything else with precision, honesty, and respect.
 
 Start with one this week.
+

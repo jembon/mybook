@@ -1,11 +1,12 @@
----
+﻿---
 title: "Ch1 02: The External Meter"
-slug: "02-the-external-meter"
 weight: 2
 draft: false
 translationKey: book-pull-architecture-ch02
 ---
-# The External Meter
+
+# Ch1 02: The External Meter
+
 
 You think you know what you're worth. You've got a résumé, a LinkedIn headline, a mental catalog of your strengths. You can rattle off your skills in a job interview without missing a beat.
 
@@ -141,3 +142,4 @@ This isn't a one-time exercise. Recalibrate your External Meter every quarter, b
 Value is not a trophy you earn and keep. It's a signal you broadcast and maintain.
 
 **Your one move today:** Build the three-column table. Five rows minimum. Be ruthlessly specific in every column. The clarity you gain in thirty minutes will reshape how you show up in every relationship you have.
+

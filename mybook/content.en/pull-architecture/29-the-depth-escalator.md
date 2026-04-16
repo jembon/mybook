@@ -1,11 +1,12 @@
----
-title: "Ch7 29: The Depth Escalator"
-slug: "29-the-depth-escalator"
+﻿---
+title: "Ch7 02: The Depth Escalator"
 weight: 29
 draft: false
 translationKey: book-pull-architecture-ch29
 ---
-# The Depth Escalator
+
+# Ch7 02: The Depth Escalator
+
 
 You've opened the door. You deployed an entry point, got someone talking, picked up a few signals. Good. Now what?
 
@@ -164,3 +165,4 @@ Next time you see them:
 You don't need to reach Floor Three in one attempt. You need to stop living on Floor One.
 
 Depth is not a personality trait. It's a skill. And like every skill in the Pull Architecture, it gets sharper with practice — which is exactly what the next chapter is about.
+

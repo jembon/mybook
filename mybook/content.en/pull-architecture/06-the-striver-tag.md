@@ -1,11 +1,12 @@
----
-title: "Ch2 06: The Striver Tag"
-slug: "06-the-striver-tag"
+﻿---
+title: "Ch2 01: The Striver Tag"
 weight: 6
 draft: false
 translationKey: book-pull-architecture-ch06
 ---
-# The Striver Tag
+
+# Ch2 01: The Striver Tag
+
 
 You're waiting. Waiting until you have the perfect credentials. Waiting until you've "made it." Waiting until your results are impressive enough to put on display. *Then* you'll start building your personal brand.
 
@@ -133,3 +134,4 @@ The Striver Tag gives you permission to be exactly where you are. Not where you 
 You don't need to have arrived. You need to be visibly, specifically, honestly in motion.
 
 **Your one move today:** Write your Striver Tag using the three-step generator. What are you building? Why? What stage? Put it in one sentence. Use it the next time someone asks what you're working on. Watch what happens when you stop pretending you've arrived and start showing that you're on your way.
+

@@ -1,11 +1,12 @@
----
-title: "Ch6 24: The Vent-First Protocol"
-slug: "24-the-vent-first-protocol"
+﻿---
+title: "Ch6 02: The Vent-First Protocol"
 weight: 24
 draft: false
 translationKey: book-pull-architecture-ch24
 ---
-# The Vent-First Protocol
+
+# Ch6 02: The Vent-First Protocol
+
 
 Your friend calls you at 10 PM. Her voice is tight. She just got passed over for a promotion she's been chasing for eighteen months. She's angry, hurt, and exhausted.
 
@@ -164,3 +165,4 @@ Step 3: Wait for the signal. When they're ready, offer your perspective.
 One conversation. That's all it takes to feel the difference. The person on the other end will notice — even if they can't name what changed.
 
 And the next time they need someone, they'll call you first.
+

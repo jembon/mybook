@@ -1,11 +1,12 @@
----
-title: "Ch5 20: The 150 Ceiling"
-slug: "20-the-150-ceiling"
+﻿---
+title: "Ch5 03: The 150 Ceiling"
 weight: 20
 draft: false
 translationKey: book-pull-architecture-ch20
 ---
-# The 150 Ceiling
+
+# Ch5 03: The 150 Ceiling
+
 
 How many people are in your phone contacts right now? Five hundred? A thousand? Two thousand?
 
@@ -109,3 +110,4 @@ Then enforce the ceiling. Not because relationships don't matter — but because
 Your biology set the limit. Your job is to fill it with the right names.
 
 Start now.
+

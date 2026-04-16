@@ -1,11 +1,12 @@
----
-title: "Ch6 27: The Repair Kit"
-slug: "27-the-repair-kit"
+﻿---
+title: "Ch6 05: The Repair Kit"
 weight: 27
 draft: false
 translationKey: book-pull-architecture-ch27
 ---
-# The Repair Kit
+
+# Ch6 05: The Repair Kit
+
 
 You messed up.
 
@@ -151,3 +152,4 @@ Your Pull Architecture has tools for building value, broadcasting signals, expan
 These aren't soft skills. They're structural components. Without them, your system accumulates friction until it seizes up. With them, you can navigate whatever comes — and emerge with stronger relationships than before.
 
 That's not just being liked. That's being needed. And that's the whole point.
+

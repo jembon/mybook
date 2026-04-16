@@ -1,11 +1,12 @@
----
-title: "Ch3 13: The Five-Step Bridge"
-slug: "13-the-five-step-bridge"
+﻿---
+title: "Ch3 04: The Five-Step Bridge"
 weight: 13
 draft: false
 translationKey: book-pull-architecture-ch13
 ---
-# The Five-Step Bridge
+
+# Ch3 04: The Five-Step Bridge
+
 
 You want to build a relationship with someone you've never met. Someone who doesn't know your name, owes you nothing, and has no reason to care you exist. Maybe they're a decision-maker in an industry you're trying to break into. Maybe they're a potential mentor whose career mirrors the path you want to walk. Maybe you just admire their work — and know their network could change everything.
 
@@ -127,3 +128,4 @@ Pick five people from your Target 20. Identify where you stand with each one. Ta
 Small, sequential, specific. That's how strangers become acquaintances. That's how acquaintances become allies. And that's how you build a network that doesn't just look impressive on paper — but actually works when you need it.
 
 *You can't jump a bridge. You can only walk it — one step at a time.*
+

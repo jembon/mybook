@@ -1,11 +1,12 @@
----
-title: "Ch6 25: The Honest Mirror"
-slug: "25-the-honest-mirror"
+﻿---
+title: "Ch6 03: The Honest Mirror"
 weight: 25
 draft: false
 translationKey: book-pull-architecture-ch25
 ---
-# The Honest Mirror
+
+# Ch6 03: The Honest Mirror
+
 
 Nobody wakes up eager to criticize someone they care about. The moment you realize you need to tell a colleague their work missed the mark, or a friend that their behavior is damaging something real, or a direct report that they're falling behind — your stomach knots. Your brain starts mapping escape routes. *Maybe I can hint at it. Maybe they'll figure it out. Maybe it's not worth the fight.*
 
@@ -144,3 +145,4 @@ Write it out. Read it back. Does it sound like a judgment or a reflection?
 If it sounds like a reflection, deliver it. This week.
 
 The other person deserves to see what you see. And your relationship deserves the honesty.
+

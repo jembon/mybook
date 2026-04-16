@@ -1,11 +1,12 @@
----
-title: "Ch7 28: The Entry Point"
-slug: "28-the-entry-point"
+﻿---
+title: "Ch7 01: The Entry Point"
 weight: 28
 draft: false
 translationKey: book-pull-architecture-ch28
 ---
-# The Entry Point
+
+# Ch7 01: The Entry Point
+
 
 You're at a conference. Coffee in hand. The person you've been wanting to meet is standing three feet away, also holding coffee, also staring at their phone.
 
@@ -116,3 +117,4 @@ That last step matters more than you think. It turns a casual interaction into a
 The entry point is the cheapest move in your entire Pull Architecture. It costs nothing but three minutes and a willingness to open your mouth. Stop waiting for the perfect moment. The perfect moment is the one where you're both standing there holding coffee.
 
 So what are you going to do about it?
+

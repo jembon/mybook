@@ -1,17 +1,17 @@
 ---
-title: "The Pull Architecture"
+title: "The Pull Architecture: Seven Layers to Becoming Indispensable"
 date: 2026-04-15
-description: "Seven layers to becoming indispensable — the missing manual for anyone who has ever wondered why being good at their job wasn't enough to get ahead."
-author: "CHAOCHAO WU"
+weight: 400
+description: "At Jembon Publishing, we look for books that solve a problem most people don't even know they have. When The Pull Architecture landed on our desk, we recognized it immediately."
+author: "Dr. Nolan Vance"
+cover: "/images/covers/pull-architecture/en.jpg"
 tags: ["Social Skills", "Networking", "Personal Branding", "Career Growth", "Emotional Intelligence"]
-categories: ["Personal Growth"]
-weight: 100
 draft: false
+bookSection: "*"
 translationKey: book-pull-architecture
-cover:
-  image: "/images/covers/pull-architecture/en.jpg"
-  relative: false
 ---
+
+## Publisher's Foreword
 
 At Jembon Publishing, we look for books that solve a problem most people don't even know they have.
 

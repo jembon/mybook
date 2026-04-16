@@ -1,11 +1,12 @@
----
-title: "Ch2 09: The Digital Imprint"
-slug: "09-the-digital-imprint"
+﻿---
+title: "Ch2 04: The Digital Imprint"
 weight: 9
 draft: false
 translationKey: book-pull-architecture-ch09
 ---
-# The Digital Imprint
+
+# Ch2 04: The Digital Imprint
+
 
 Right now, someone is looking you up. A recruiter, a potential client, a future collaborator, the person you exchanged cards with last week. They're typing your name into a search bar, and within ten seconds they'll form an opinion about you.
 
@@ -175,3 +176,4 @@ But signals are promises. They tell people what you *can* do. They don't prove y
 A signal without delivery is just advertising. And people don't need more advertising. They need results.
 
 **Your one move today:** Open your primary professional profile. Run the Digital Imprint Checklist — all 16 items. Check what passes. Circle what fails. Fix the three easiest items today. Schedule the rest for this week. Your digital imprint is speaking right now. Make sure it's saying what you want it to say.
+

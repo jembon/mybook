@@ -1,11 +1,12 @@
----
-title: "Ch5 22: The Portfolio Rebalance"
-slug: "22-the-portfolio-rebalance"
+﻿---
+title: "Ch5 05: The Portfolio Rebalance"
 weight: 22
 draft: false
 translationKey: book-pull-architecture-ch22
 ---
-# The Portfolio Rebalance
+
+# Ch5 05: The Portfolio Rebalance
+
 
 You've done the hard work. You know your stop-loss signals. You can run a Cold Equation. You understand the 150 ceiling. You've mapped your six rings and found where the waste is and where the gaps are.
 
@@ -151,3 +152,4 @@ Then close this chapter and go do the first one.
 Your network has been on autopilot long enough. The architecture is built. The tools are in your hands. The only remaining variable is whether you'll use them.
 
 You know the answer. Start now.
+

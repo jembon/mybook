@@ -1,17 +1,17 @@
 ---
-title: "引力社交"
+title: "引力社交：成为被需要的人的七层架构"
 date: 2026-04-15
-description: "成为被需要的人的七层架构——写给每一个曾经困惑为什么擅长工作还不够出头的人。"
-author: "CHAOCHAO WU"
+weight: 400
+description: "在 Jembon Publishing，我们寻找的是那些能解决大多数人甚至不知道自己存在的问题的书。当《引力社交》来到我们案头时，我们立刻意识到：这就是那本缺失的手册。"
+author: "Dr. Nolan Vance"
+cover: "/images/covers/pull-architecture/zh.jpg"
 tags: ["社交能力", "人脉经营", "个人品牌", "职业成长", "情商"]
-categories: ["个人成长"]
-weight: 100
 draft: false
+bookSection: "*"
 translationKey: book-pull-architecture
-cover:
-  image: "/images/covers/pull-architecture/zh.jpg"
-  relative: false
 ---
+
+## 出版社序言
 
 在 Jembon Publishing，我们寻找的是那些能解决大多数人甚至不知道自己存在的问题的书。
 

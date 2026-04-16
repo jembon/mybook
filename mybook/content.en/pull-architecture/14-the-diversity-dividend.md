@@ -1,11 +1,12 @@
----
-title: "Ch4 14: The Diversity Dividend"
-slug: "14-the-diversity-dividend"
+﻿---
+title: "Ch4 01: The Diversity Dividend"
 weight: 14
 draft: false
 translationKey: book-pull-architecture-ch14
 ---
-# The Diversity Dividend
+
+# Ch4 01: The Diversity Dividend
+
 
 You think your network is strong because everyone in it agrees with you. Conversations flow easily. Nobody pushes back too hard or asks uncomfortable questions. You finish each other's sentences at dinner, predict each other's reactions before the meeting starts.
 
@@ -103,3 +104,4 @@ Over six months to a year of deliberate diversification, the dividend starts com
 And here's the ultimate payoff: when most people network exclusively within their comfort zone, the person with a genuinely diverse network becomes irreplaceable. Because they can do what nobody else in the room can — see around corners.
 
 *A network where everyone agrees with you isn't a network. It's a mirror. And mirrors don't show you what's behind you.*
+

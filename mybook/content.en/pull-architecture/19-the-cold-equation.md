@@ -1,11 +1,12 @@
----
-title: "Ch5 19: The Cold Equation"
-slug: "19-the-cold-equation"
+﻿---
+title: "Ch5 02: The Cold Equation"
 weight: 19
 draft: false
 translationKey: book-pull-architecture-ch19
 ---
-# The Cold Equation
+
+# Ch5 02: The Cold Equation
+
 
 Picture this. A longtime friend wants you to co-host an event this Saturday — one that will swallow your entire weekend and most of your energy for the week after. Meanwhile, a new contact from an adjacent industry just invited you to a small dinner with eight people who could reshape your next two years. You can't do both. Choose.
 
@@ -133,3 +134,4 @@ Your social resources are finite. Every "yes" has a price paid in time, energy, 
 Pull out that decision you've been postponing. The one where your gut keeps saying one thing and your brain keeps whispering another. Four quadrants. Five minutes. One clear answer.
 
 Do it now.
+

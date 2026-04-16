@@ -1,11 +1,12 @@
----
-title: "Ch5 18: The Stop-Loss Rule"
-slug: "18-the-stop-loss-rule"
+﻿---
+title: "Ch5 01: The Stop-Loss Rule"
 weight: 18
 draft: false
 translationKey: book-pull-architecture-ch18
 ---
-# The Stop-Loss Rule
+
+# Ch5 01: The Stop-Loss Rule
+
 
 You've been texting first for six months. You've introduced them to three people who could change their career. You've rearranged your schedule twice — twice — to show up at their events. And every time you need something, anything, even a reply to a simple question, you hear crickets.
 
@@ -123,3 +124,4 @@ That's not selfish. That's architecture. Your social system has a budget. You've
 Now open your contact list. Pick the three relationships where you've been doing all the heavy lifting. Run them through the checklist. Write down the scores.
 
 And then act on what you find.
+

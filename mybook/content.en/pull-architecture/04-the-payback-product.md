@@ -1,11 +1,12 @@
----
+﻿---
 title: "Ch1 04: The Payback Product"
-slug: "04-the-payback-product"
 weight: 4
 draft: false
 translationKey: book-pull-architecture-ch04
 ---
-# The Payback Product
+
+# Ch1 04: The Payback Product
+
 
 Someone does you a favor. A real one — an introduction that lands you a client, a recommendation that gets you the interview, a phone call that saves your project. You feel grateful. You say thank you. You make a mental note to "return the favor someday."
 
@@ -156,3 +157,4 @@ The Payback Product is your tool for keeping that ledger balanced. Not through o
 The best relationships aren't the ones where nobody keeps track. They're the ones where both people are actively trying to contribute more than they take. That's not transactional — it's generous. And generosity with structure is the most sustainable form of social investment.
 
 **Your one move today:** Think of one person who helped you recently. Fill out the Payback Product Design Card — Identify, Match, Design. Then deliver it within 48 hours. One card. One delivery. One relationship upgraded.
+

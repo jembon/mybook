@@ -1,11 +1,12 @@
----
+﻿---
 title: "Ch1 03: The Three-Point Compass"
-slug: "03-the-three-point-compass"
 weight: 3
 draft: false
 translationKey: book-pull-architecture-ch03
 ---
-# The Three-Point Compass
+
+# Ch1 03: The Three-Point Compass
+
 
 Ask someone what they do, and they'll hand you a job title. Ask what they're good at, and you'll get a vague list. Ask what they need, and most people stare at you like you just switched languages.
 
@@ -191,3 +192,4 @@ When your compass is vague:
 The compass doesn't make you more talented. It makes your talent visible, accessible, and actionable. In a world drowning in generic self-descriptions, specificity is the ultimate competitive advantage.
 
 **Your one move today:** Fill out the Three-Point Compass Template. All three points. One sentence each. Say it out loud. If it takes more than ten seconds, trim it. If it sounds like a résumé, rewrite it. If Point 3 is missing, add it. Your compass is only as strong as its weakest point.
+
